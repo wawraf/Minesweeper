@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+*
+!.gitignore
+!main.py
+!cell.py
+!settings.py
